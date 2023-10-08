@@ -9,3 +9,5 @@ A Java-based application designed to manage and categorize competition participa
 
 ## Matriculation Number
 7219292
+## Name
+Bekzod Nazarov
